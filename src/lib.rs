@@ -138,6 +138,7 @@
 
 #![no_std]
 #![feature(ptr_metadata)]
+#![feature(asm)]
 
 extern crate alloc;
 
